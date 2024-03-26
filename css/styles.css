@@ -11556,7 +11556,7 @@ html {
 
 .bg-gradient-primary-to-secondary {
   background: #1e30f3;
-  background: linear-gradient(135deg, #1e30f3 0%, #e21e80 100%);
+  background: linear-gradient(135deg, #73ecac 0%, #57ffe7 100%);
 }
 
 .text-gradient {
